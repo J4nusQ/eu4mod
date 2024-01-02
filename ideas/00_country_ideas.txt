@@ -1,0 +1,81 @@
+smoldzino_ideas = {
+	start = {
+		technology_cost = -0.10	
+		naval_morale = 0.10
+	}
+	
+	bonus = {
+		ship_durability = 0.10
+	}
+	
+	trigger = {
+		tag = GSM
+	}
+	free = yes
+	
+	smoldzino_ideas_SPN_and_the_Mayor = {
+		diplomatic_reputation = 1
+	}
+	smoldzino_ideas_the_holy_mountain_of_Rowokol = {
+		global_missionary_strength = 0.02	
+	}
+	smoldzino_ideas_Czolpino_dunes = {
+		movement_speed = 0.15
+	}
+	smoldzino_ideas_stone_island = {
+		accept_vassalization_reasons = 5
+		may_perform_slave_raid_on_same_religion = yes
+	}
+	smoldzino_ideas_Commune_of_four_lakes = {
+		global_colonial_growth = 15
+		range = 0.15
+	}
+	smoldzino_ideas_former_soviet_garrisons = {
+		defensiveness = 0.20
+	}
+	smoldzino_ideas_the_legend_of_the_amber_room = {
+		trade_goods_size_modifier = 0.10
+	}
+}
+
+Wilkowyje_ideas = {
+	start = {
+		unjustified_demands = -0.10	
+		global_unrest = -1
+	}
+	
+	bonus = {
+		improve_relation_modifier = 0.25
+	}
+	
+	trigger = {
+		tag = GWL
+	}
+	free = yes
+	
+	wilkowyje_ideas_American_in_wilkowyje = {
+		num_accepted_cultures = 2
+	}
+	wilkowyje_ideas_laweczka = {
+		land_morale = 0.05
+		discipline = 0.025	
+	}
+	wilkowyje_ideas_old_manor_house = {
+		diplomatic_reputation = 1
+	}
+	wilkowyje_ideas_seven_children_of_solejuks = {
+		global_manpower_modifier = 0.15
+	}
+	wilkowyje_ideas_our_own_bishop = {
+		tolerance_own = 2
+	}
+	wilkowyje_ideas_kusy_an_artist = {
+		advisor_cost = -0.15
+	}
+	wilkowyje_ideas_beetwen_the_mayor_and_the_priest = {
+		prestige = 1
+		republican_tradition = 0.5
+		legitimacy = 1
+
+	}
+}
